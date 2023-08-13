@@ -1,5 +1,4 @@
-#Autoria Kanban
-###Modelagem de Sistemas
+#Autoria Modelagem de Sistemas
 https://padlet.com/lucas_pn_santos/kanban-prw706s2w820a20r
 
 #Autoria Programação de aplicativos
